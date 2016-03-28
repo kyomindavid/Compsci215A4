@@ -1,0 +1,116 @@
+www.bu.edu
+220ms 220ms 220ms 220ms 	20 hops	(4th 10pm)
+220ms 221ms 220ms 220ms		20	(5th 4pm)
+220ms 221ms 223ms 223ms		20	(6th 9pm)
+220ms 220ms 220ms 221ms		20	(7th 12pm)
+220ms 220ms 220ms 220ms 	20 hops	(4th 10pm)
+220ms 221ms 220ms 220ms		20	(5th 4pm)
+220ms 221ms 223ms 223ms		20	(6th 9pm)
+
+www.ucr.edu
+164ms 164ms 164ms 164ms 	17	(4th 10pm)
+165ms 164ms 165ms 164ms		17	(5th 4pm)
+164ms 164ms 164ms 164ms		17 	(6th 9pm)
+164ms 164ms 164ms 164ms		17	(7th 12pm)
+164ms 164ms 164ms 164ms 	17	(4th 10pm)
+165ms 164ms 165ms 164ms		17	(5th 4pm)
+164ms 164ms 164ms 164ms		17 	(6th 9pm)
+
+www.utexas.edu
+211ms 211ms 211ms 211ms 	18	(4th 10pm)
+211ms 212ms 211ms 211ms		18	(5th 4pm)
+211ms 211ms 210ms 211ms		18	(6th 9pm)
+211ms 211ms 211ms 211ms		18	(7th 12pm)
+211ms 211ms 211ms 211ms 	18	(4th 10pm)
+211ms 212ms 211ms 211ms		18	(5th 4pm)
+211ms 211ms 210ms 211ms		18	(6th 9pm)
+
+www.juet.ac.in
+327ms 337ms 328ms 326ms 	11	(4th 10pm)
+339ms 336ms 333ms 333ms		11	(5th 4pm)
+334ms 334ms 336ms 334ms		11	(6th 9pm)
+323ms 323ms 322ms 323ms		11	(7th 12pm)
+327ms 337ms 328ms 326ms 	11	(4th 10pm)
+339ms 336ms 333ms 333ms		11	(5th 4pm)
+334ms 334ms 336ms 334ms		11	(6th 9pm)
+
+www.kyoto-u.ac.jp
+254ms 254ms 254ms 254ms 	16	(4th 10pm)
+254ms 258ms 254ms 254ms		18	(5th 4pm)
+254ms 254ms 254ms 253ms		18	(6th 9pm)
+254ms 254ms 254ms 254ms		18	(7th 12pm)
+254ms 254ms 254ms 254ms 	16	(4th 10pm)
+254ms 258ms 254ms 254ms		18	(5th 4pm)
+254ms 254ms 254ms 253ms		18	(6th 9pm)
+
+www.unilorin.edu.ng
+344ms 344ms 343ms 343ms 	21	(4th 10pm)
+353ms 352ms 352ms 352ms		21	(5th 4pm)
+351ms 350ms 351ms 352ms		21	(6th 9pm)
+343ms 343ms 343ms 343ms		21	(7th 12pm)
+344ms 344ms 343ms 343ms 	21	(4th 10pm)
+353ms 352ms 352ms 352ms		21	(5th 4pm)
+351ms 350ms 351ms 352ms		21	(6th 9pm)
+
+www.epfl.ch
+329ms 329ms 329ms 329ms 	22	(4th 10pm)
+338ms 336ms 336ms 336ms		21	(5th 4pm)
+332ms 332ms 332ms 332ms		22	(6th 9pm)
+345ms 345ms 345ms 345ms		23	(7th 12pm)
+329ms 329ms 329ms 329ms 	22	(4th 10pm)
+338ms 336ms 336ms 336ms		21	(5th 4pm)
+332ms 332ms 332ms 332ms		22	(6th 9pm)
+
+www.tu-berlin.de
+343ms 343ms 343ms 343ms 	21	(4th 10pm)
+336ms 335ms 335ms 335ms		21	(5th 4pm)
+344ms 344ms 345ms 345ms		21	(6th 9pm)
+345ms 344ms 345ms 344ms		21	(7th 12pm)
+343ms 343ms 343ms 343ms 	21	(4th 10pm)
+336ms 335ms 335ms 335ms		21	(5th 4pm)
+344ms 344ms 345ms 345ms		21	(6th 9pm)
+
+www.liu.se
+312ms 312ms 312ms 312ms 	22	(4th 10pm)
+379ms 376ms 376ms 376ms		29	(5th 4pm)
+310ms 310ms 309ms 311ms		22	(6th 9pm)
+376ms 376ms 377ms 376ms		29	(7th 12pm)
+312ms 312ms 312ms 312ms 	22	(4th 10pm)
+379ms 376ms 376ms 376ms		29	(5th 4pm)
+310ms 310ms 309ms 311ms		22	(6th 9pm)
+
+www.nsu.ru
+402ms 402ms 402ms 402ms 	21	(4th 10pm)
+426ms 430ms 435ms 421ms		20 	(5th 4pm)
+405ms 404ms 404ms 404ms		21	(6th 9pm)
+401ms 401ms 401ms 401ms 	21	(7th 12pm)
+402ms 402ms 402ms 402ms 	21	(4th 10pm)
+426ms 430ms 435ms 421ms		20 	(5th 4pm)
+405ms 404ms 404ms 404ms		21	(6th 9pm)
+
+www.tau.ac.il
+414ms 455ms 410ms 410ms 	21	(4th 10pm)
+392ms 392ms 392ms 392ms		21	(5th 4pm)
+401ms 401ms 401ms 401ms		21	(6th 9pm)
+394ms 393ms 394ms 393ms		21	(7th 12pm)
+414ms 455ms 410ms 410ms 	21	(4th 10pm)
+392ms 392ms 392ms 392ms		21	(5th 4pm)
+401ms 401ms 401ms 401ms		21	(6th 9pm)
+
+www.unsw.edu.au
+45ms 44ms 44ms 44ms 		16	(4th 10pm)
+45ms 45ms 47ms 45ms		18	(5th 4pm)
+45ms 44ms 44ms 44ms		18	(6th 9pm)
+47ms 44ms 51ms 48ms		18	(7th 12pm)
+45ms 44ms 44ms 44ms 		16	(4th 10pm)
+45ms 45ms 47ms 45ms		18	(5th 4pm)
+45ms 44ms 44ms 44ms		18	(6th 9pm)
+
+www.ait.ac.th
+149ms 149ms 149ms 149ms 	12	(4th 10pm)
+150ms 149ms 150ms 149ms		12	(5th 4pm)
+152ms 151ms 151ms 151ms		12	(6th 9pm)
+158ms 151ms 150ms 151ms		12	(7th 12pm)
+149ms 149ms 149ms 149ms 	12	(4th 10pm)
+150ms 149ms 150ms 149ms		12	(5th 4pm)
+152ms 151ms 151ms 151ms		12	(6th 9pm)
